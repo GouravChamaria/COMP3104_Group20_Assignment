@@ -2,3 +2,5 @@ Learning DevOps as a student in software development can be highly valuable, as 
 DevOps provides students with a holistic understanding of the entire software development lifecycle, from planning and coding to testing, deployment, and monitoring.
 
 DevOps introduces students to automation tools and practices, allowing them to automate repetitive tasks such as testing, deployment, and infrastructure provisioning.
+
+DevOps encourages a problem-solving mindset. 
