@@ -2,4 +2,4 @@ DevOps, short for Development and Operations, I believe it is a set of practices
 
 Introduction to DevOps: Understanding the principles and practices of DevOps, and how it aims to enhance collaboration between development and operations teams.
 
-We have learned a few important things so far in the course as well, such as  DevOps principles, practices, and tools
+We have learned a few important things so far in the course as well, such as  DevOps principles, practices, and tools. The course have cover topics such as version control and  continuous integration. 
