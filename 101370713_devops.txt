@@ -1,4 +1,4 @@
-DevOps, short for Development and Operations, I see it as a set of practices that aims to automate and improve the process of software development and IT operations collaboration. A course like COMP 3104 in DevOps might cover various topics such as:
+DevOps, short for Development and Operations, is a set of practices that aims to automate and improve the process of software development and IT operations collaboration. A course like COMP 3104 in DevOps might cover various topics such as:
 
-Understanding the principles and practices of DevOps, and how it aims to enhance collaboration between development and operations teams.
+Introduction to DevOps: Understanding the principles and practices of DevOps, and how it aims to enhance collaboration between development and operations teams.
 
