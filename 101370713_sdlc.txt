@@ -3,4 +3,4 @@ DevOps provides students with a holistic understanding of the entire software de
 
 DevOps introduces students to automation tools and practices, allowing them to automate repetitive tasks such as testing, deployment, and infrastructure provisioning.
 
-DevOps encourages a problem-solving mindset. 
+DevOps encourages a problem-solving mindset. learning DevOps as a student not only provides technical skills but also instills a mindset of collaboration, automation, and continuous improvement.
