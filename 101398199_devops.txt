@@ -6,3 +6,4 @@ Continuous Delivery (CD) extends CI by automating the deployment process, allowi
 Version control systems, like Git, are fundamental tools taught in a DevOps course to manage code changes and collaborate effectively.
 Infrastructure as Code (IaC) is another essential topic, enabling the provisioning and management of infrastructure through code.
 Effective collaboration and communication between development and operations teams are emphasized in DevOps to break down silos and improve collaboration.
+Monitoring and logging are critical for identifying issues in real-time and gathering insights for continuous improvement.
