@@ -5,3 +5,4 @@ Continuous Delivery (CD): CD automates the deployment process, ensuring that cod
 Improved Quality: With automated testing and continuous monitoring, DevOps helps maintain higher software quality and reduces defects in production.
 Efficient Resource Utilization: DevOps practices optimize resource usage, resulting in cost savings and improved infrastructure management.
 Scalability: DevOps allows for better scalability as it streamlines the process of provisioning and managing infrastructure.
+Reduced Downtime: Quick recovery mechanisms and automated backups minimize downtime in case of failures.
