@@ -1,3 +1,3 @@
 DevOps, short for Development and Operations, is an approach that combines software development and IT operations to improve the software development lifecycle.
 One key focus in DevOps is automation, where repetitive tasks are automated to increase efficiency and reduce errors.
-
+A DevOps course typically covers various aspects of DevOps practices and principles.
