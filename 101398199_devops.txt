@@ -2,3 +2,4 @@ DevOps, short for Development and Operations, is an approach that combines softw
 One key focus in DevOps is automation, where repetitive tasks are automated to increase efficiency and reduce errors.
 A DevOps course typically covers various aspects of DevOps practices and principles.
 Continuous Integration (CI) is a crucial DevOps concept that involves regularly integrating code changes into a shared repository and running automated tests.
+Continuous Delivery (CD) extends CI by automating the deployment process, allowing for the rapid and reliable release of software.
