@@ -7,3 +7,4 @@ Version control systems, like Git, are fundamental tools taught in a DevOps cour
 Infrastructure as Code (IaC) is another essential topic, enabling the provisioning and management of infrastructure through code.
 Effective collaboration and communication between development and operations teams are emphasized in DevOps to break down silos and improve collaboration.
 Monitoring and logging are critical for identifying issues in real-time and gathering insights for continuous improvement.
+Security is integrated into DevOps practices, with a focus on identifying vulnerabilities early and addressing them throughout the development process.
